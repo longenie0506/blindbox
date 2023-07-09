@@ -7,3 +7,5 @@ Which is a blindbox app demo
 <p>Tuyen is so cool</p>
 
 ![text](background.png){ width=60%,height:30px }
+
+> The life is the life
